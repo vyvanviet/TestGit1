@@ -1,7 +1,7 @@
 <%-- 
-    Document   : Test
-    Created on : Mar 2, 2016, 3:11:41 PM
-    Author     : iviettech
+    Document   : VietVanVy
+    Created on : Mar 2, 2016, 3:58:32 PM
+    Author     : IVIETTECH
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,7 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-        <h1>Hello From Vy Van Viet!</h1>
+        <h1>Test file</h1>
     </body>
 </html>
